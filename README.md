@@ -14,6 +14,7 @@ $ apt install python3 && apt install git<br>
 <br>
 $ git clone https://github.com/spider863644/Hacking-Tools<br>
 <br>
+$ cd Hacking-Tools
 <h3>Running</h3>
 $ python3 hacking-tools.py
 <h3>Username and password</h3>

@@ -1,5 +1,6 @@
 # Hacking-Tools<br>
-Hacking Tools is a all in one hacking script which help Users in Hacking
+Hacking Tools is a all in one hacking script which help Users in Hacking<br>
+If you are a termux user, kindly install sudo or you root your phone
 <h3>FEAUTURES</h3>
 [+]Social Media Hacking<br>
 [+]Information Gathering<br>
@@ -16,13 +17,13 @@ $ git clone https://github.com/spider863644/Hacking-Tools<br>
 <br>
 $ cd Hacking-Tools
 <h3>Running</h3>
-$ python3 hacking-tools.py
-<h3>Username and password</h3>
-<b>Username:</b>Message me on WhatsApp (+2349052863644) <br>
-<b>Password:</b>Message me on WhatsApp
+$ python3 hacking_tool.py
 
-<h4>Note:</h4>
-Follow me on github and message me on WhatsApp for tools name and password
+
+
+
+
+
 <br>
 <br>
 Only for educational purposes only
